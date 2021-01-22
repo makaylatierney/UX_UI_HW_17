@@ -56,7 +56,38 @@
 
 
    }
-  
+
+   h2 {
+    position: absolute;
+    width: 509px;
+    height: 129px;
+    left: 556px;
+    top: 320px;
+    
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    
+    
+    color: #FFFFFF;
+   }
+
+   h3 {
+    position: absolute;
+    width: 487px;
+    height: 129px;
+    left: 556px;
+    top: 430px;
+    
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    
+    color: #FFFFFF;
+   }
   p {
       color: white;
       
@@ -123,5 +154,19 @@
     height: 900px;
     width: 100%;
     
+  }
+  footer {
+      display: block;
+      text-align: center;
+      background-color:#292C3A;
+      color: white;
+      padding: 14px 63px;
+    text-decoration: none;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
     
+   
   }
